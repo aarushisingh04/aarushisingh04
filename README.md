@@ -1,6 +1,6 @@
-. cs + ai undergrad
-. highly interested in everything ✨ stats and numbers ✨
-. learning golang and docker
+* cs + ai undergrad
+* highly interested in everything ✨ stats and numbers ✨
+* learning golang and docker
 
 <!--
 **aarushisingh04/aarushisingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
