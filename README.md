@@ -1,6 +1,7 @@
 * cs + ai undergrad
+* 2025 swe intern @ microsoft (spark + native execution engine)
 * highly interested in everything ✨ stats and numbers ✨
-* learning aws, golang and docker
+* ai engineering and problem solving
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aarushisingh04)
 
