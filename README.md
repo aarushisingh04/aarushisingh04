@@ -1,9 +1,11 @@
-* cs + ai undergrad
-* 2025 swe intern @ microsoft (spark + native execution engine)
-* highly interested in everything ✨ stats and numbers ✨
-* ai engineering and problem solving
+i'm <a href="https://aarushisingh04.github.io/">aarushi singh</a>, a senior computer science undergrad with a specialization in artificial intelligence.
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aarushisingh04)
+* previously, i was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
+* i'm currently working on research involving multimodal llms, latent state fusion and system prompt inference.
+
+if you want to know more, you can reach out to me at <a href="mailto:emailaarushihere@gmail.com">emailaarushihere@gmail.com</a>.
+
+
 
 <p>
 
