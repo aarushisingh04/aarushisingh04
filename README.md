@@ -1,7 +1,7 @@
 i'm aarushi singh, a 2026 computer science undergrad with a specialization in artificial intelligence.
 
 **currently, i am**
-* highly interested in ml research involving multimodel llms, contexual engineering and agentic infrastructure.
+* highly interested in ml research involving multimodal llms, contexual engineering and agentic infrastructure.
 * exploring new opportunities across ml/data engineering and research.
 
 **previously, i**
