@@ -1,9 +1,15 @@
-i'm <a href="https://aarushisingh04.github.io/">aarushi singh</a>, a senior computer science undergrad with a specialization in artificial intelligence.
+i'm aarushi singh, a 2026 computer science undergrad with a specialization in artificial intelligence.
 
-* previously, i was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
-* i'm currently working on research involving multimodal llms, latent state fusion and system prompt inference.
+**currently, i am**
+* highly interested in ml research involving multimodel llms, contexual engineering and agentic infrastructure.
+* exploring new opportunities across ml/data engineering and research.
 
-if you want to know more, you can reach out to me at <a href="mailto:emailaarushihere@gmail.com">emailaarushihere@gmail.com</a>.
+**previously, i**
+* was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
+* <a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">contributed</a> to the `huggingface/transformers` repository.
+
+
+you can check out my <a href="https://aarushisingh04.github.io/">website</a>, <a href="https://aarushisingh04.github.io/blog.html">blog</a> or you can reach out to me at <a href="mailto:emailaarushihere@gmail.com">emailaarushihere@gmail.com</a>.
 
 
 
@@ -14,13 +20,6 @@ if you want to know more, you can reach out to me at <a href="mailto:emailaarush
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-  <!-- Version Control & DevOps -->
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -37,9 +36,5 @@ if you want to know more, you can reach out to me at <a href="mailto:emailaarush
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
 
 </p>
