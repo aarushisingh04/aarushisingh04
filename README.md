@@ -1,12 +1,12 @@
 i'm aarushi singh, a 2026 computer science undergrad with a specialization in artificial intelligence.
 
 **currently, i am**
-* highly interested in ml research involving multimodal llms, contexual engineering and agentic infrastructure.
+* highly interested in ml research involving multimodal llms, contextual engineering and agentic infrastructure.
 * exploring new opportunities across ml/data engineering and research.
 
 **previously, i**
 * was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
-* <a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">contributed</a> to the `huggingface/transformers` repository.
+* contributed to the `huggingface/transformers` repository (<a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">1</a> <a href="https://github.com/huggingface/transformers/pull/43380">2</a>).
 
 
 you can check out my <a href="https://aarushisingh04.github.io/">website</a>, <a href="https://aarushisingh04.github.io/blog.html">blog</a> or you can reach out to me at <a href="mailto:emailaarushihere@gmail.com">emailaarushihere@gmail.com</a>.
