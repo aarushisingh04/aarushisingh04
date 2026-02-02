@@ -8,6 +8,7 @@ i'm aarushi singh, a 2026 computer science undergrad with a specialization in ar
 * was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
 * contributed to the `huggingface/transformers` repository (<a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">1</a> <a href="https://github.com/huggingface/transformers/pull/43380">2</a>).
 * contributed to the `karpathy/nanochat` repository (<a href="https://github.com/karpathy/nanochat/pull/458">1</a>).
+* contributed to the `langchain-ai/langchain` repository (<a href="https://github.com/langchain-ai/langchain/pull/34845">1</a>).
 
 
 you can check out my <a href="https://aarushisingh04.github.io/">website</a>, <a href="https://aarushisingh04.github.io/blog.html">blog</a> or you can reach out to me at <a href="mailto:emailaarushihere@gmail.com">emailaarushihere@gmail.com</a>.
