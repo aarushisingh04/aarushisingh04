@@ -1,4 +1,4 @@
-i'm aarushi singh, a 2026 computer science undergrad with a specialization in artificial intelligence.
+i'm aarushi singh, a 2026 computer science undergrad with a specialization in artificial intelligence and a gpa of 9.48.
 
 **currently, i am**
 * highly interested in ml research involving multimodal llms, contextual engineering and agentic infrastructure.
