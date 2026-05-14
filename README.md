@@ -9,6 +9,7 @@ i'm aarushi singh, a 2026 computer science undergrad with a specialization in ar
 * contributed to
   * `huggingface/transformers` (<a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">1</a> <a href="https://github.com/huggingface/transformers/pull/43380">2</a>).
   * `databricks/dbt-databricks` (<a href="https://github.com/databricks/dbt-databricks/pull/1332">1</a> <a href="https://github.com/databricks/dbt-databricks/pull/1341">2</a> <a href="https://github.com/databricks/dbt-databricks/pull/1348">3</a> <a href="https://github.com/databricks/dbt-databricks/pull/1364">4</a> <a href="https://github.com/databricks/dbt-databricks/pull/1435">5</a>).
+  * `microsoft/terminal` (<a href="https://github.com/microsoft/terminal/pull/20032">1</a>).
   * `langchain-ai/langchain` (<a href="https://github.com/langchain-ai/langchain/pull/34845">1</a>).
   * `stripe/ai` (<a href="https://github.com/stripe/ai/pull/317">1</a>).
   * `karpathy/nanochat` (<a href="https://github.com/karpathy/nanochat/pull/458">1</a>).
