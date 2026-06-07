@@ -1,8 +1,9 @@
-i'm aarushi singh, a 2026 computer science undergrad with a specialization in artificial intelligence and a gpa of 9.3 .
+i'm aarushi singh, a 2026 CS undergrad with a specialization in artificial intelligence and a gpa of 9.3 .
 
 **currently, i am**
-* highly interested in ml research involving multimodal llms, contextual engineering and agentic infrastructure.
-* exploring new opportunities across ml/data engineering and research.
+* highly interested in agentic memory, robotics and ai safety.
+* an ai safety fellow @ MIT AI Alignment.
+* open to <a href="mailto:emailaarushihere@gmail.com">talk</a> about new opportunities across ml/data engineering and research.
 
 **previously, i**
 * was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
