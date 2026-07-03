@@ -17,6 +17,7 @@ i'm aarushi singh, a 2026 CS undergrad with a specialization in artificial intel
   * `langchain-ai/langchain` (<a href="https://github.com/langchain-ai/langchain/pull/34845">1</a>).
   * `stripe/ai` (<a href="https://github.com/stripe/ai/pull/317">1</a>).
   * `karpathy/nanochat` (<a href="https://github.com/karpathy/nanochat/pull/458">1</a>).
+  * `tensorflow/tensorflow` (<a href="https://github.com/tensorflow/tensorflow/pull/110146">1</a>).
 
 
 you can check out my <a href="https://aarushisingh04.github.io/">website</a>, <a href="https://aarushisingh04.github.io/blog.html">blog</a> or you can reach out to me at <a href="mailto:emailaarushihere@gmail.com">emailaarushihere@gmail.com</a>.
