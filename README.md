@@ -1,12 +1,14 @@
-i'm aarushi singh, a 2026 CS undergrad with a specialization in artificial intelligence and a gpa of 9.3 .
+i'm aarushi singh (alternatively @ <a href="https://github.com/aarushi-sarvam">aarushi-sarvam</a>), 
 
 **currently, i am**
 * highly interested in agentic memory, robotics and ai safety.
-* an ai safety fellow @ MIT AI Alignment.
-* open to <a href="mailto:emailaarushihere@gmail.com">talk</a> about new opportunities across ml/data engineering and research.
+* working on ML @ <a href="https://www.sarvam.ai/">sarvam</a>.
+* an ai safety fellow @ <a href="https://aialignment.mit.edu/">MIT AI Alignment</a>.
+* open to <a href="mailto:emailaarushihere@gmail.com">talk</a> about ml/data engineering and research.
 
 **previously, i**
 * was a swe intern @ microsoft (spark + <a href="https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview?tabs=sparksql">native execution engine</a>) (2025)
+* was a 2026 CS undergrad with a specialization in artificial intelligence and a gpa of 9.3 .
 * contributed to
   * `huggingface/transformers` (<a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">1</a> <a href="https://github.com/huggingface/transformers/pull/43380">2</a>).
   * `databricks`
