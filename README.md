@@ -12,7 +12,7 @@ i'm aarushi singh (alternatively @ <a href="https://github.com/aarushi-sarvam">a
 * contributed to
   * `huggingface/transformers` (<a href="https://github.com/huggingface/transformers/commits?author=aarushisingh04">1</a> <a href="https://github.com/huggingface/transformers/pull/43380">2</a>).
   * `databricks`
-     * `dbt-databricks` (<a href="https://github.com/databricks/dbt-databricks/pull/1332">1</a> <a href="https://github.com/databricks/dbt-databricks/pull/1341">2</a> <a href="https://github.com/databricks/dbt-databricks/pull/1348">3</a> <a href="https://github.com/databricks/dbt-databricks/pull/1364">4</a> <a href="https://github.com/databricks/dbt-databricks/pull/1435">5</a>)
+     * `dbt-databricks` (<a href="https://github.com/databricks/dbt-databricks/pull/1332">1</a> <a href="https://github.com/databricks/dbt-databricks/pull/1341">2</a> <a href="https://github.com/databricks/dbt-databricks/pull/1348">3</a> <a href="https://github.com/databricks/dbt-databricks/pull/1364">4</a> <a href="https://github.com/databricks/dbt-databricks/pull/1435">5</a> <a href="https://github.com/databricks/dbt-databricks/pull/1462">6</a>)
      * `omnigent` (<a href="https://github.com/omnigent-ai/omnigent/pull/18">1</a> <a href="https://github.com/omnigent-ai/omnigent/pull/49">2</a> <a href="https://github.com/omnigent-ai/omnigent/pull/125">3</a>).
      * `databrickslabs/dqx` (<a href="https://github.com/databrickslabs/dqx/pull/1158">1</a> <a href="https://github.com/databrickslabs/dqx/pull/1263">2</a> <a href="https://github.com/databrickslabs/dqx/pull/1275">3</a>).
   * `microsoft/terminal` (<a href="https://github.com/microsoft/terminal/pull/20032">1</a> <a href="https://github.com/microsoft/terminal/pull/20031">2</a>).
